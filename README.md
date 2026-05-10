@@ -163,5 +163,4 @@ This project is licensed under the MIT License.
 
 ## 👥 Support
 
-For support, email support@printflow.com or join our Slack channel.
-```
+For support, email support@readloud.github.io or join our Slack channel.
